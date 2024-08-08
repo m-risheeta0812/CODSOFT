@@ -1,0 +1,33 @@
+.text-center{
+   margin-left: 700px;
+    text-size-adjust: 10px;
+
+}
+.mx-auto{
+    margin: 50px;
+
+}
+.m-w-20{
+    max-width: fit-content;
+
+}
+
+.flex{
+display: flex;
+}
+
+.flex-col{
+flex-direction: column;
+}
+
+.items-center{
+    align-items: center;
+
+}
+.row{
+    margin-top: 3px;
+    margin-bottom: 3px;
+    margin-left: 720px;
+    margin-right: 400px;
+    display: flex;
+}
